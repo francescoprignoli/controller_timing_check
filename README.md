@@ -1,4 +1,5 @@
-## This is a minimal mpc controller implemented with the acados framework. This program reproduces execution time issues when using a sleep() function: the longer the sleep time, the longer the execution time.
+## MPC controller timing check
+### This is a minimal mpc controller implemented with the acados framework. This program reproduces execution time issues when using a sleep() function: the longer the sleep time, the longer the execution time.
 
 ### Usage:
 - update `env.sh` with your acados folder path and `source env.sh`
