@@ -1,0 +1,6 @@
+*.d
+*.o
+*.dpp
+*.a
+.vscode
+/build

@@ -1,0 +1,2 @@
+export ACADOS_INSTALL_DIR=<path/to/acados>
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ACADOS_INSTALL_DIR/lib
