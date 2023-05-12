@@ -4,3 +4,5 @@
 *.a
 .vscode
 /build
+*.mexa64
+*.so
